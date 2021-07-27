@@ -41,6 +41,18 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Saguro Cactus",
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRSU4ng-76vw4_ATKVH1xJDbhh0bqcL2NDAWsmwMpBwKAvutl27KEJ5gpm6heA-goLBAkvIoL4rpA6npVxp3BGaitiBFoF0ZD2TavjxTcn9h9euYXHZlagKow&usqp=CAc",
+      "price": "27.05",
+      "id": 8
+    },
+    {
+      "name": "Juniper Bonsai",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTKPFgXKqCtAK-3SMQ13RHJ55lIqYB36QRK_PR5c4RpTQI_gCdWWUgBzEe5-_4YAx79pNzaoGdN3SyQuCgiCn6Z4ZIKz5ngydvypzuB2NLqxXcrKnYwNzmw&usqp=CAc",
+      "price": "400",
+      "id": 9
     }
   ]
 }
